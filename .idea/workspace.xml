@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dbd888fb-6c66-40b5-8207-65626bfb6596" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/mp4 to mp3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/1.1BOSS战音乐 燃灯除厄▪其一(祟).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/1.1BOSS战音乐 燃灯除厄▪其二(祟&amp;祟▪焚风&amp;祟▪寒潮).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/1.1主题音乐 明灯节庆典.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/1.1版本音乐 天工福灯.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/1.1版本音乐 天楼异变.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/1.1版本音乐 提灯夜行▪其一.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/1.1版本音乐 提灯夜行▪其二.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/1.1版本音乐 明灯寄思.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/1.2BOSS战音乐1(凯茜娅&amp;凯茜娅▪覆霜)+教程音乐+棚户区4音乐.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/1.2BOSS战音乐2(威尔▪安德森&amp;“炎刃”威尔).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/1.2主题音乐 失声梦呓.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/1.2版本音乐 未知暗算(1).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/1.2版本音乐 未知暗算(2).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/1.2版本音乐 诡渊浮影.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/1.3BOSS战音乐(透墨索斯).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/1.3主题音乐.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/1.3战斗音乐1.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/1.3战斗音乐2.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/1.3过场音乐1.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/1.3过场音乐2.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/1.3过场音乐3.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/1.3过场音乐4.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/1.4BOSS战音乐(约瑟夫▪顽骨).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/1.4主题音乐.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/1.4战斗音乐1.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/1.4战斗音乐2(1).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/1.4战斗音乐2(2).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/1.4过场音乐1.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/1.4过场音乐2.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/1.5BOSS战音乐(尼亚尔).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/1.5主题音乐.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/1.5战斗音乐1.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/1.5战斗音乐2.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/1.5过场音乐1.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/1.5过场音乐2.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/1.5过场音乐3.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/1.6BOSS战音乐(耶洛沙之泪).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/1.6主题音乐(完整版).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/1.6主题音乐.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/1.6战斗音乐1(1).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/1.6战斗音乐1(2).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/1.6战斗音乐2(1).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/1.6过场音乐1.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/1.6过场音乐2.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/1.6过场音乐3.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/1.7BOSS战音乐 纯白哀歌(二律背反的盟约).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/1.7主题音乐 孤心反相.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/1.7版本音乐 晦朔弦望.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/1.7版本音乐 索影归迹▪其一.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/1.7版本音乐 索影归迹▪其三.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/1.7版本音乐 索影归迹▪其二.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/1.8BOSS战音乐(派▪纯净).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/1.8主题音乐.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/1.8战斗音乐1(1).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/1.8战斗音乐1(2).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/1.8战斗音乐2(1).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/1.8战斗音乐2(2).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/1.8战斗音乐3(1).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/1.8战斗音乐3(2).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/1.8过场音乐.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/2.0BOSS战音乐 新生(初诞的沃坦).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/2.0BOSS战音乐 神之暗面(初诞的沃坦).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/2.0主题音乐 危步云端.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/2.0心动派对音乐 跃跃心动▪其一.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/2.0心动派对音乐 跃跃心动▪其二.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/2.0版本音乐 伪神造物.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/2.0版本音乐 新生▪诉语.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/2.0版本音乐 未定式演绎.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/2.0版本音乐 空都小憩.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/2.0版本音乐 粘稠梦魇.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/2.0版本音乐 解救计划.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/2.1BOSS战音乐 极夜幽影(极夜幽影).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/2.1主题音乐1 最棒的妄想舞台.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/2.1主题音乐2 暗恋的提线演出.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/2.1版本音乐 夜幕开场.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/2.1版本音乐 搏命戏剧.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/2.1版本音乐 离岛逃亡.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/2.1版本音乐 约定待续.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/2.1版本音乐 绝地防线三期.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/2.2BOSS战音乐 决斗吧，尘白恶魔号！(尘白恶魔号).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/2.2主题音乐 斑斓乐园.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/2.2版本音乐 夜荧之海.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/2.2版本音乐 心犀叠印.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/2.2版本音乐 碰碰对撞.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/2.2版本音乐 跑跑疾冲.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/2.2版本音乐 蹦蹦发射.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/BOSS战音乐1(二型验证机甲).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/BOSS战音乐10(尤弥尔2).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/BOSS战音乐2(波伏娃13).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/BOSS战音乐3(“野牛”约瑟夫&amp;教程海拉).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/BOSS战音乐4(尤弥尔1).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/BOSS战音乐5(加文).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/BOSS战音乐6(海拉&amp;海拉▪怒棘).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/BOSS战音乐7(让▪苏瑞安▪萨特).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/BOSS战音乐8(刻耳柏洛斯&amp;二型验证机甲▪荒猎).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/BOSS战音乐9(爱思特).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/主界面BGM1 尘白间隙(尘白之间).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/主界面BGM2 未知猜想(世界树营地).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/地下清理&amp;战术考核音乐1.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/地下清理&amp;战术考核音乐2.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/地下清理&amp;战术考核音乐3.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/地下清理&amp;战术考核音乐4.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/地下清理音乐5.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/基地主界面BGM 海姆达尔的休憩.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/悖论迷宫+地下清理&amp;战术考核音乐6.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/战斗音乐1(1)(缓冲区1).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/战斗音乐1(2)(缓冲区1).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/战斗音乐10(1)(棚户区2).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/战斗音乐10(2)(棚户区2).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/战斗音乐11(1)(棚户区3).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/战斗音乐11(2)(棚户区3).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/战斗音乐12(天楼区1).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/战斗音乐13(天楼区2).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/战斗音乐14(天楼区3).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/战斗音乐15(天楼区4).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/战斗音乐2(缓冲区2).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/战斗音乐3(缓冲区3).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/战斗音乐4(缓冲区4).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/战斗音乐5(降临团1).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/战斗音乐6(降临团2).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/战斗音乐7(降临团3).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/战斗音乐8(降临团4).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/战斗音乐9(1)(棚户区1).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/战斗音乐9(2)(棚户区1).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/疗愈中心音乐 纾心秘语.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/过场音乐1.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/过场音乐10.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/过场音乐11.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/过场音乐12.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/过场音乐13.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/过场音乐14.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/过场音乐2.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/过场音乐3.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/过场音乐4.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/过场音乐5.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/过场音乐6.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/过场音乐7.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/过场音乐8.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/过场音乐9.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/整理JS.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/audios/南方姑娘.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/audios/成都.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/audios/我记得.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/audios/爱情转移.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/audios/阴天快乐.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/music.json" beforeDir="false" afterPath="$PROJECT_DIR$/music.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2oHSLX9bIxlZoD2loldmjZ7jGkj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.index.executor&quot;: &quot;Run&quot;,
+    &quot;Python.整理JS.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/yangz/Desktop/QidianCrawler-master&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Python.整理JS">
+    <configuration name="整理JS" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="music-player-demo" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/整理JS.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="index" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="music-player-demo" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mp4tomp3-master" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mp4tomp3-master/index.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="mp4 to mp3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="music-player-demo" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mp4 to mp3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.整理JS" />
+        <item itemvalue="Python.index" />
+        <item itemvalue="Python.mp4 to mp3" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-975db3bf15a3-31b6be0877a2-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.18034.82" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="dbd888fb-6c66-40b5-8207-65626bfb6596" name="更改" comment="" />
+      <created>1730524952400</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1730524952400</updated>
+    </task>
+    <servers />
+  </component>
+</project>
